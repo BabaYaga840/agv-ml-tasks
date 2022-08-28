@@ -11,3 +11,4 @@
   <li>store values of predictions in a 2D array and get the index with the maximum value for each row in the 2D array</li>
   <li>store the above mentioned indices in a array (these are the final predictions)</li>
  </ol>
+<h5>Added the headers of the csv files manually</h5>
